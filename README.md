@@ -10,3 +10,4 @@ This is a mod manager for Hollow Knight aimed at making the process of installin
 - Get the latest release [here](https://github.com/fifty-six/Scarab/releases/latest).
 - Unzip and run it.
 - Mods appear in the top left corner of the game title screen after installation.
+andreid accese
